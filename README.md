@@ -27,9 +27,6 @@ This repository contains implementations of various Machine Learning models and 
    pip install -r requirements.txt
    ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
-
 ## Contact
 - GitHub: [@JFRashu](https://github.com/JFRashu)
 - Kaggle: [@rashu001](https://www.kaggle.com/rashu001)
