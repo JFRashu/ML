@@ -5,17 +5,22 @@ This repository contains implementations of various Machine Learning models and 
 ## Projects
 
 ### 1. Website Classification using Naive Bayes
-- Implementation of a Naive Bayes classifier for website categorization
+- Implementation of a Multinomial Naive Bayes classifier for website categorization 
 - Uses text analysis to categorize websites into different classes
 - Features text preprocessing and model evaluation metrics
 - [View on Kaggle](https://www.kaggle.com/rashu001/website-classification-using-naive-bayes)
+
+### 2. Naive Bayes Simple Example using Bernoulli
+- Demonstrates a simple implementation of the Bernoulli Naive Bayes classifier
+- Focuses on binary classification using Bernoulli probability distribution
+- Includes data preprocessing, model training, and evaluation
+- [View on Kaggle](https://www.kaggle.com/code/rashu001/naive-bayers-simple-example-using-bernoulli)
 
 ## Technologies Used
 - Python
 - Scikit-learn
 - Pandas
 - NumPy
-
 
 ## Getting Started
 1. Clone the repository:
@@ -30,3 +35,4 @@ This repository contains implementations of various Machine Learning models and 
 ## Contact
 - GitHub: [@JFRashu](https://github.com/JFRashu)
 - Kaggle: [@rashu001](https://www.kaggle.com/rashu001)
+
